@@ -1,0 +1,6 @@
+name = "ArkoniakRegistry"
+uuid = "f005562d-c47d-4a9d-b921-c48d899014c8"
+repo = "git@github.com:Arkoniak/ArkoniakRegistry.git"
+description = "Custom forks of some packages"
+
+[packages]
