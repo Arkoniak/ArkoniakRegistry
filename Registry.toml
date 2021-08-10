@@ -4,3 +4,4 @@ repo = "git@github.com:Arkoniak/ArkoniakRegistry.git"
 description = "Custom forks of some packages"
 
 [packages]
+012345c5-e472-43f4-a172-db5f2c4ef4b9 = { name = "LibPQ2", path = "L/LibPQ2" }
